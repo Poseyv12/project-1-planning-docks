@@ -19,7 +19,8 @@ i want to be able to go "All In"
 - font - Poppins
 
 ## wireframe
-![alt text](Wireframe.jpeg)
+![wireframe1](Wireframe.jpeg)
+![wireframe2](wireframe2.jpeg)
 
 # Pseudocode:
 

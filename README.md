@@ -20,7 +20,7 @@ i want to be able to go "All In"
 
 ## wireframe
 ![wireframe1](Wireframe.jpeg)
-![wireframe2](wireframe2.jpeg)
+![wireframe2](wireframe2.png)
 
 # Pseudocode:
 
